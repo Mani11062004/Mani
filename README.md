@@ -1,2 +1,4 @@
 # Mani
-Section A CS23037
+CSE
+SECTION A
+CS23037
